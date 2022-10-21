@@ -12,7 +12,7 @@
     },
     "top_video": [ 
         {
-            "src": "http://192.168.0.104:9100/top_video/top.mov",
+            "src": "https://github.com/howardweng/quasar01/raw/main/top.mov",
             "type": "video/mp4"
         }
 
