@@ -25,5 +25,8 @@
     ],
     "bottom_jpeg": {
         "src": "https://github.com/howardweng/quasar01/raw/main/40sec.mp3"
+    },
+    "heat_sound": {
+        "src": "https://github.com/howardweng/quasar01/raw/main/40sec.mp3"
     }
 }
