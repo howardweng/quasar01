@@ -1,0 +1,29 @@
+{
+	"base_url": {
+        "url":"12345"
+    },
+    "temp_range": {
+        "low": "36.0",
+        "high": "38.0"
+    },
+    "marquee": {
+        "text": "目前防疫溫度偵測中，體溫過高者將發出提醒畫面，請配合警衛再進一步量測溫度，如造成您的不便敬請見諒  !!!",
+        "duration": 60
+    },
+    "top_video": [ 
+        {
+            "src": "http://192.168.0.104:9100/top_video/top.mov",
+            "type": "video/mp4"
+        }
+
+    ],
+    "center_video": [
+        {
+            "src": "http://192.168.0.104:9100/center_video/center.mov",
+            "type": "video/mp4"
+        }
+    ],
+    "bottom_jpeg": {
+        "src": "http://192.168.0.104:9100/bottom_jpeg/photo1.jpg"
+    }
+}
