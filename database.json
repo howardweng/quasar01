@@ -24,6 +24,6 @@
         }
     ],
     "bottom_jpeg": {
-        "src": "http://192.168.0.104:9100/bottom_jpeg/photo1.jpg"
+        "src": "https://github.com/howardweng/quasar01/raw/main/40sec.mp3"
     }
 }
