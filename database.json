@@ -30,6 +30,7 @@
         }
     ],
     "bottom_jpeg": {
-        "src": "https://github.com/howardweng/quasar01/raw/main/photo1.jpg"
+        "src": "https://github.com/howardweng/quasar01/raw/main/photo1.jpg",
+	"type":"image/jpeg"
     }
 }
