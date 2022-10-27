@@ -20,13 +20,13 @@
     "center_video": [
         {
             "src": "https://github.com/howardweng/quasar01/raw/main/center.mov",
-            "type": "video/mp4"
+            "type": "video/quicktime"
         }
     ],
     "heat_sound": [
         {
             "src": "https://github.com/howardweng/quasar01/raw/main/40sec.mp3",
-            "type": "audio/mp3"
+            "type": "audio/mpeg"
         }
     ],
     "bottom_jpeg": {
