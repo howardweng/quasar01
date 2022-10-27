@@ -29,8 +29,8 @@
             "type": "audio/mpeg"
         }
     ],
-    "bottom_jpeg": {
+    "bottom_jpeg": [{
         "src": "https://github.com/howardweng/quasar01/raw/main/photo1.jpg",
 	"type":"image/jpeg"
-    }
+    }]
 }
